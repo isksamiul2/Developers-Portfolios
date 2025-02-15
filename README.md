@@ -12,6 +12,7 @@
 ### 🔠 A  
 - **Aryan Sekh** – 🔗 [Live Demo](https://aryansyedece42.github.io/Profile.github.io/) 📂 [Source Code](Portfolios/Aryan)  
 - **Aryan 2** – 🔗 [Live Demo](https://aryansyedece42.github.io/Profile.github.io/) 📂 [Source Code](Portfolios/Aryan2)  
+- **Aryan 3** – 🔗 [Live Demo](https://aryansyedece42.github.io/Profile.github.io/) 📂 [Source Code](Portfolios/Aryan3) 
 
 ### 🔠 B  
 - **Contributor 3** – 🔗 [Live Demo](https://your-live-demo-link.com) 📂 [Source Code](Portfolios/contributor3)  
