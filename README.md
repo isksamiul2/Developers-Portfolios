@@ -10,7 +10,7 @@
 ## 📌 Contributors List
 
 ### 🔠 A  
-- **Contributor 1** – 🔗 [Live Demo](https://your-live-demo-link.com) 📂 [Source Code](Portfolios/contributor1)  
+- **Aryan Sekh** – 🔗 [Live Demo](https://aryansyedece42.github.io/Profile.github.io/) 📂 [Source Code](Portfolios/Aryan)  
 - **Contributor 2** – 🔗 [Live Demo](https://your-live-demo-link.com) 📂 [Source Code](Portfolios/contributor2)  
 
 ### 🔠 B  
